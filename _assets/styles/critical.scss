@@ -57,9 +57,7 @@
 @import 'scss/04-components/tiles--service';
 
 // TODO: refactor and remove.
-@import 'scss/04-components/post-top';
-@import 'scss/04-components/previous-next-links';
-@import 'scss/04-components/tag';
+@import 'scss/04-components/fa-icons';
 @import 'scss/04-components/team-member-top';
 @import 'scss/04-components/work-case-study-cover-image';
 
@@ -74,4 +72,5 @@
 @import 'scss/05-regions/service-tiles';
 
 // Layout and page-level rules.
+@import 'scss/06-pages/post';
 @import 'scss/06-pages/service';
